@@ -1,18 +1,234 @@
-# 💫 About Me:
-Computer Engineering student with an Honors specialization in AI & ML and a CGPA of 8.15/10. I’m passionate about Python, Django, Backend Development, AI/ML, AWS, and Cloud/DevOps, building practical and intelligent solutions.<br><br>🐍 Python, C++, JavaScript, SQL<br>⚙️ Django & Django REST Framework<br>🤖 Machine Learning, TensorFlow, PyTorch, Scikit-learn<br>📊 Pandas, NumPy, OpenCV<br>🗄️ MySQL, SQLite<br>☁️ AWS — EC2, S3, RDS, SQS, DynamoDB, IAM<br>🔧 Git, GitHub, Linux, Postman
+# 👋 Hi, I'm Aryan Surve
 
+<h3 align="center">
+  🚀 Python/Django Developer | 🤖 AI/ML Enthusiast | ☁️ AWS & DevOps
+</h3>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://aryansurve.totalh.net/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_215s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-surve-b38098318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansurve1210@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+%7C+Django+Developer;AI+%2F+Machine+Learning+Enthusiast;Backend+%7C+REST+API+Developer;AWS+%7C+Cloud+%7C+DevOps;Building+Intelligent+Digital+Solutions" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aryansurve1210&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aryansurve1210&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryansurve1210&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aryansurve1210&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+🎓 B.E. Computer Engineering student at **Dr. D. Y. Patil College of Engineering & Innovation, Talegaon (SPPU)**
+
+💻 Passionate **Python/Django Developer** focused on backend development and REST APIs.
+
+🤖 Interested in **Artificial Intelligence, Machine Learning, and Deep Learning**.
+
+☁️ Exploring **AWS, Cloud Computing, and DevOps**.
+
+🔧 I enjoy building practical applications that combine **software development + AI**.
+
+📍 Pune, Maharashtra, India
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,python" />
+</p>
+
+- Django
+- Django REST Framework
+- RESTful APIs
+- Django ORM
+- CRUD
+- Authentication
+- JSON
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
+- OpenCV
+- Librosa
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
+</p>
+
+- AWS EC2
+- AWS S3
+- AWS RDS
+- AWS SQS
+- AWS DynamoDB
+- AWS IAM
+- Git & GitHub
+- Linux
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+### ❤️ Heart Disease Prediction
+
+> Django-based machine learning application for predicting heart disease risk.
+
+**Tech:** Python • Django • Scikit-learn • MySQL
+
+- 🧠 Machine Learning prediction model
+- 📊 Data preprocessing & feature scaling
+- 🔍 Feature analysis
+- 🗄️ MySQL database integration
+- 📈 90%+ classification accuracy during evaluation
+
+---
+
+### 🐱 CatCare AI
+
+> AI-powered cat emotion detection application using image and audio inputs.
+
+**Tech:** Python • Django • TensorFlow • OpenCV • Librosa
+
+- 🖼️ Image emotion detection
+- 🎵 Audio emotion detection
+- 🧠 Deep Learning models
+- 🔊 Audio preprocessing
+- 📷 Image preprocessing
+- 🔌 API-based AI integration
+
+---
+
+### 🤖 Fake Instagram Account Detection
+
+> Machine learning system for identifying fake and automated social media accounts.
+
+**Tech:** Python • Pandas • Scikit-learn
+
+- 📊 Data preprocessing
+- ⚙️ Feature engineering
+- ⚖️ Class imbalance handling
+- 🧠 Supervised Machine Learning
+- 📈 Precision, Recall & F1-Score
+- 📉 Confusion Matrix & ROC Analysis
+
+---
+
+# 💼 Experience
+
+### Backend Developer Intern
+**KDU Software Solutions**
+
+- Developed backend modules using Python & Django
+- Built REST APIs using Django REST Framework
+- Implemented CRUD, authentication and validation
+- Worked with MySQL and Django ORM
+- Tested APIs using Postman
+- Used Git & GitHub
+- Integrated AWS services
+
+### AI Intern
+**Infosys Springboard**
+
+- Built Python-based ML workflows
+- Performed EDA and preprocessing
+- Feature engineering and classification
+- Evaluated models using multiple ML metrics
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+📧 **Email:** aryansurve1210@gmail.com
+
+📍 **Pune, Maharashtra, India**
+
+---
+
+<h3 align="center">
+  💡 "Building intelligent solutions, one line of code at a time."
+</h3>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
