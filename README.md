@@ -1,9 +1,25 @@
-<!-- ========================================================= -->
 
-<!-- KEEP YOUR ORIGINAL HEADER ABOVE THIS SECTION              -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF00C8&height=220&section=header&text=ARYAN%20SURVE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20AI%2FML%20%7C%20AWS&descAlignY=58&descSize=20" width="100%"/>
+</p>
 
-<!-- ========================================================= -->
+<!-- ===================== TYPING ===================== -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=👋+Welcome+to+my+GitHub!;🐍+Python+%7C+💚+Django+Developer;🤖+AI+%2F+Machine+Learning+Enthusiast;☁️+AWS+%7C+Cloud+%7C+DevOps;⚡+Backend+%7C+REST+API+Developer;🚀+Building+Intelligent+Digital+Solutions" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aryansurve1210&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/aryansurve1210?label=FOLLOWERS&style=for-the-badge&color=7B2FFF"/>
+
+<img src="https://img.shields.io/github/stars/aryansurve1210?label=STARS&style=for-the-badge&color=FF00C8"/>
+
+</p>
+
+---
 <!-- ===================== PROFILE STATUS ==================== -->
 
 <p align="center">
