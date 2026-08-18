@@ -23,57 +23,72 @@
 ---
 
 <!-- ===================== ABOUT ===================== -->
-<!-- ===================== ABOUT ME ===================== -->
-
-# 🌟 About Me
+# 🧑‍💻 About Me
 
 <p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212257452-4b5e5c4b-6f44-4f48-9f6e-5a7b8c9d0e1f.gif"
-    width="450"
-  />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Aryan+Surve+%F0%9F%91%8B;I+turn+ideas+into+code+%F0%9F%92%BB;I+build+backends+with+Django+%E2%9A%99%EF%B8%8F;I+experiment+with+AI+%26+Machine+Learning+%F0%9F%A4%96;I+deploy+solutions+on+AWS+%E2%98%81%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aryan+Surve+%F0%9F%91%8B;Python+%2F+Django+Developer+%F0%9F%90%8D;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;AWS+%2F+Cloud+%2F+DevOps+Explorer+%E2%98%81%EF%B8%8F;Building+Intelligent+Digital+Solutions+%F0%9F%9A%80" />
 </p>
 
 <br>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 👨‍💻 Who Am I?
+### 🚀 Who Am I?
 
 🎓 **B.E. Computer Engineering Student**
 
 🏫 **Dr. D. Y. Patil College of Engineering & Innovation, Talegaon**
 
-🎯 **SPPU**
+🎯 **SPPU | Computer Engineering**
 
-💻 **Python / Django Developer**
+<br>
 
-🤖 **AI / ML Enthusiast**
+💻 **Python/Django Developer**
+
+🤖 **AI & Machine Learning Enthusiast**
 
 ☁️ **AWS & Cloud Explorer**
 
 ⚙️ **Backend & REST API Developer**
 
-📍 **Pune, Maharashtra 🇮🇳**
+🧠 **Problem Solver & Continuous Learner**
+
+📍 **Pune, Maharashtra, India 🇮🇳**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" align="center">
 
-### 🚀 What I Do
+<img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,aws,mysql,git,github&perline=4" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌈 What I Love Building
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🐍%20Python-00F5FF?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/🌐%20Django-00FF88?style=for-the-badge&logo=django&logoColor=black"/>
+<img src="https://img.shields.io/badge/🤖%20AI%2FML-7B2FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚙️%20DevOps-FF00C8?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
 
 ```text
-💡 Think
+💡 Idea
    ↓
-🧠 Learn
+🧠 Design
    ↓
-💻 Build
+💻 Develop
    ↓
 🧪 Test
    ↓
@@ -82,86 +97,11 @@
 🚀 Improve
 ```
 
-I enjoy turning ideas into practical
-digital solutions using:
-
-🐍 Python
-⚡ Django
-🤖 AI / ML
-☁️ AWS
-🗄️ Databases
-🔌 REST APIs
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 My Developer Mindset
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/💡_Problem_Solver-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AI_Explorer-7B2FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_Backend_Builder-FF00C8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁️_Cloud_Learner-00C9A7?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-> 🚀 <b>Build.</b>
-> 🧠 <b>Learn.</b>
-> 🔥 <b>Experiment.</b>
-> ⚡ <b>Improve.</b>
-> 🌎 <b>Innovate.</b>
-
 </p>
 
 ---
 
-## 💻 What I'm Working With
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,cpp,js,html,css,mysql,sqlite,tensorflow,pytorch,opencv,aws,linux,git,github&perline=8" />
-
-</p>
-
----
-
-## 🔥 My Development Journey
-
-<p align="center">
-
-```text
-             👨‍💻 ARYAN SURVE
-                    │
-                    ▼
-             🐍 Python Development
-                    │
-                    ▼
-             ⚡ Django Backend
-                    │
-                    ▼
-             🔌 REST APIs
-                    │
-                    ▼
-             🤖 AI / Machine Learning
-                    │
-                    ▼
-             ☁️ AWS & Cloud
-                    │
-                    ▼
-             🚀 Intelligent Applications
-```
-
-</p>
-
----
-
-## 🎯 What I'm Passionate About
+## 🛠️ My Development Areas
 
 <table align="center">
 <tr>
@@ -172,17 +112,21 @@ digital solutions using:
 
 **Python**
 
-Building powerful and scalable applications.
+Backend Development
+Automation
+Problem Solving
 
 </td>
 
 <td align="center" width="25%">
 
-### ⚡
+### 🌐
 
 **Django**
 
-Creating secure and efficient backends.
+Web Applications
+REST APIs
+Authentication
 
 </td>
 
@@ -192,7 +136,9 @@ Creating secure and efficient backends.
 
 **AI / ML**
 
-Turning data into intelligent solutions.
+Machine Learning
+Deep Learning
+Computer Vision
 
 </td>
 
@@ -202,7 +148,9 @@ Turning data into intelligent solutions.
 
 **AWS**
 
-Learning cloud deployment and infrastructure.
+Cloud
+Deployment
+Infrastructure
 
 </td>
 
@@ -211,48 +159,63 @@ Learning cloud deployment and infrastructure.
 
 ---
 
-## 🌱 Currently Exploring
+## ⚡ My Developer Journey
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=7B2FFF&center=true&vCenter=true&width=700&lines=Advanced+Django+%E2%9A%A1;Machine+Learning+%F0%9F%A4%96;Deep+Learning+%F0%9F%A7%A0;AWS+Cloud+%E2%98%81%EF%B8%8F;DevOps+%E2%9A%99%EF%B8%8F;Data+Structures+%26+Algorithms+%F0%9F%A7%A9;System+Design+%F0%9F%8F%97%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=FF00C8&center=true&vCenter=true&width=750&lines=Computer+Engineering+%F0%9F%8E%93;Python+Development+%F0%9F%90%8D;Django+%2B+REST+APIs+%F0%9F%8C%90;Machine+Learning+%F0%9F%A4%96;AWS+%2B+Cloud+%E2%98%81%EF%B8%8F;DevOps+%E2%9A%99%EF%B8%8F;Building+Real+World+Projects+%F0%9F%9A%80" />
 
 </p>
 
 ---
 
-## ⚡ A Little More About Me
+## 💻 Developer Terminal
+
+```text
+╭──────────────────────────────────────────────╮
+│              ARYAN@GITHUB ~ $                 │
+├──────────────────────────────────────────────┤
+│                                              │
+│  $ whoami                                    │
+│  > Python/Django Developer                   │
+│                                              │
+│  $ skills                                    │
+│  > Python | Django | AI/ML | AWS | SQL       │
+│                                              │
+│  $ interests                                 │
+│  > Backend | Cloud | Machine Learning        │
+│                                              │
+│  $ location                                  │
+│  > Pune, Maharashtra, India 🇮🇳               │
+│                                              │
+│  $ mission                                   │
+│  > Build intelligent digital solutions 🚀    │
+│                                              │
+│  $ status                                    │
+│  > 🟢 Always Learning                        │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+---
+
+## 🔥 Currently Exploring
 
 <p align="center">
 
-💻 I don't just write code — **I build solutions.**
-
-<br>
-
-🤖 I don't just use AI — **I experiment with it.**
-
-<br>
-
-☁️ I don't just learn AWS — **I deploy and explore cloud technologies.**
-
-<br>
-
-🔥 And I'm always looking for the **next thing to learn and build.**
+<img src="https://img.shields.io/badge/🐍%20Advanced%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Advanced%20Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖%20Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/☁️%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚙️%20DevOps-7B2FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩%20System%20Design-00F5FF?style=for-the-badge"/>
 
 </p>
 
 ---
 
-<h2 align="center">
-
-🌌 Code → Create → Learn → Innovate → Repeat 🔄
-
-</h2>
-
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF00C8&center=true&vCenter=true&width=700&lines=🚀+Keep+Building;🤖+Keep+Learning;💡+Keep+Exploring;🔥+Keep+Growing" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Think+%F0%9F%92%A1+%E2%86%92+Code+%F0%9F%92%BB+%E2%86%92+Build+%F0%9F%9A%80+%E2%86%92+Innovate+%F0%9F%94%A5;Never+Stop+Learning+%F0%9F%93%9A;Never+Stop+Building+%F0%9F%9A%80" />
 </p>
 
 
