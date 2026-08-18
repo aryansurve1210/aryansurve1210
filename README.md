@@ -23,49 +23,238 @@
 ---
 
 <!-- ===================== ABOUT ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
-# 🧑‍💻 About Me
+# 🌟 About Me
 
 <p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257453-9d6f7e3d-8c3f-4c0d-b3d4-7e8f6d5e0e5f.gif" width="400">
-
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212257452-4b5e5c4b-6f44-4f48-9f6e-5a7b8c9d0e1f.gif"
+    width="450"
+  />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+Aryan+Surve+%F0%9F%91%8B;I+turn+ideas+into+code+%F0%9F%92%BB;I+build+backends+with+Django+%E2%9A%99%EF%B8%8F;I+experiment+with+AI+%26+Machine+Learning+%F0%9F%A4%96;I+deploy+solutions+on+AWS+%E2%98%81%EF%B8%8F" />
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Who Am I?
 
 🎓 **B.E. Computer Engineering Student**
-🏫 **Dr. D. Y. Patil College of Engineering & Innovation, Talegaon (SPPU)**
 
-💻 **Python/Django Developer** focused on backend development and REST APIs.
+🏫 **Dr. D. Y. Patil College of Engineering & Innovation, Talegaon**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**.
+🎯 **SPPU**
 
-☁️ Exploring **AWS, Cloud Computing & DevOps**.
+💻 **Python / Django Developer**
 
-🔥 Interested in building applications that combine:
+🤖 **AI / ML Enthusiast**
+
+☁️ **AWS & Cloud Explorer**
+
+⚙️ **Backend & REST API Developer**
+
+📍 **Pune, Maharashtra 🇮🇳**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 What I Do
 
 ```text
-Software Development
-        +
-Artificial Intelligence
-        +
-Cloud Computing
-        =
-🚀 Intelligent Digital Solutions
+💡 Think
+   ↓
+🧠 Learn
+   ↓
+💻 Build
+   ↓
+🧪 Test
+   ↓
+☁️ Deploy
+   ↓
+🚀 Improve
 ```
 
-📍 Pune, Maharashtra, India
+I enjoy turning ideas into practical
+digital solutions using:
+
+🐍 Python
+⚡ Django
+🤖 AI / ML
+☁️ AWS
+🗄️ Databases
+🔌 REST APIs
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ My Tech Universe
+## 🧠 My Developer Mindset
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,django,mysql,sqlite,tensorflow,pytorch,opencv,aws,linux,git,github,vscode&perline=8" />
+<img src="https://img.shields.io/badge/💡_Problem_Solver-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI_Explorer-7B2FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_Backend_Builder-FF00C8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_Cloud_Learner-00C9A7?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+> 🚀 <b>Build.</b>
+> 🧠 <b>Learn.</b>
+> 🔥 <b>Experiment.</b>
+> ⚡ <b>Improve.</b>
+> 🌎 <b>Innovate.</b>
 
 </p>
 
 ---
+
+## 💻 What I'm Working With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,cpp,js,html,css,mysql,sqlite,tensorflow,pytorch,opencv,aws,linux,git,github&perline=8" />
+
+</p>
+
+---
+
+## 🔥 My Development Journey
+
+<p align="center">
+
+```text
+             👨‍💻 ARYAN SURVE
+                    │
+                    ▼
+             🐍 Python Development
+                    │
+                    ▼
+             ⚡ Django Backend
+                    │
+                    ▼
+             🔌 REST APIs
+                    │
+                    ▼
+             🤖 AI / Machine Learning
+                    │
+                    ▼
+             ☁️ AWS & Cloud
+                    │
+                    ▼
+             🚀 Intelligent Applications
+```
+
+</p>
+
+---
+
+## 🎯 What I'm Passionate About
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**Python**
+
+Building powerful and scalable applications.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Django**
+
+Creating secure and efficient backends.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI / ML**
+
+Turning data into intelligent solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**AWS**
+
+Learning cloud deployment and infrastructure.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Exploring
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=7B2FFF&center=true&vCenter=true&width=700&lines=Advanced+Django+%E2%9A%A1;Machine+Learning+%F0%9F%A4%96;Deep+Learning+%F0%9F%A7%A0;AWS+Cloud+%E2%98%81%EF%B8%8F;DevOps+%E2%9A%99%EF%B8%8F;Data+Structures+%26+Algorithms+%F0%9F%A7%A9;System+Design+%F0%9F%8F%97%EF%B8%8F" />
+
+</p>
+
+---
+
+## ⚡ A Little More About Me
+
+<p align="center">
+
+💻 I don't just write code — **I build solutions.**
+
+<br>
+
+🤖 I don't just use AI — **I experiment with it.**
+
+<br>
+
+☁️ I don't just learn AWS — **I deploy and explore cloud technologies.**
+
+<br>
+
+🔥 And I'm always looking for the **next thing to learn and build.**
+
+</p>
+
+---
+
+<h2 align="center">
+
+🌌 Code → Create → Learn → Innovate → Repeat 🔄
+
+</h2>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF00C8&center=true&vCenter=true&width=700&lines=🚀+Keep+Building;🤖+Keep+Learning;💡+Keep+Exploring;🔥+Keep+Growing" />
+
+</p>
+
 
 # 🐍 Programming
 
