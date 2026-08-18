@@ -34,7 +34,85 @@
 <br>
 
 <!-- ===================== ABOUT ME =========================== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A00,50:3D2B00,100:8A6500&height=90&text=ABOUT%20ME&fontSize=34&fontColor=FFD700&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+Aryan+Surve;Python+%2F+Django+Developer;AI+%2F+ML+Enthusiast;AWS+%2F+Cloud+%2F+DevOps+Explorer;Building+Intelligent+Digital+Solutions"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="55%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+🎓 **B.E. Computer Engineering Student**
+
+🏫 **Dr. D. Y. Patil College of Engineering & Innovation**
+
+🎯 **SPPU**
+
+<br>
+
+🐍 **Python / Django Developer**
+
+🤖 **AI & Machine Learning Enthusiast**
+
+☁️ **AWS & Cloud Explorer**
+
+⚙️ **Backend & REST API Developer**
+
+🧠 **Problem Solver & Continuous Learner**
+
+📍 **Pune, Maharashtra, India 🇮🇳**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,aws,mysql,git,github&perline=4"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DJANGO-C9A227?style=for-the-badge&logo=django&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-8A6500?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/💡%20THINK-FFD700?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/💻%20CODE-C9A227?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/🧪%20TEST-B8860B?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/☁️%20DEPLOY-DAA520?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/🚀%20INNOVATE-FFD700?style=for-the-badge&labelColor=0D0D0D"/>
+
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=600&color=FFD700&center=true&vCenter=true&width=850&height=45&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Learn+%E2%86%92+Repeat"/>
+
+</div>................................
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1B1464,100:3B0A57&height=90&text=ABOUT%20ME&fontSize=34&fontColor=00F5FF&animation=fadeIn"/>
