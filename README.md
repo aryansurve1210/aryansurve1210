@@ -1,3 +1,4 @@
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF00C8&height=220&section=header&text=ARYAN%20SURVE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20AI%2FML%20%7C%20AWS&descAlignY=58&descSize=20" width="100%"/>
@@ -6,8 +7,10 @@
 <!-- ===================== TYPING ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=👋+Welcome+to+my+GitHub!;🐍+Python+%7C+💚+Django+Developer;🤖+AI+%2F+Machine+Learning+Enthusiast;☁️+AWS+%7C+Cloud+%7C+DevOps;⚡+Backend+%7C+REST+API+Developer;🚀+Building+Intelligent+Digital+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=Welcome+to+my+GitHub!;Python+%7C+Django+Developer;AI+%2F+Machine+Learning+Enthusiast;AWS+%7C+Cloud+%7C+DevOps;Backend+%7C+REST+API+Developer;Building+Intelligent+Digital+Solutions" />
 </p>
+
+<!-- ===================== PROFILE STATS ===================== -->
 
 <p align="center">
 
@@ -20,112 +23,34 @@
 </p>
 
 ---
-<!-- ===================== PROFILE STATUS ==================== -->
+
+<!-- ===================== PROFILE STATUS ===================== -->
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🟢%20AVAILABLE-LEARNING-00FF88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🚀%20BUILDING-AI%20%2B%20WEB-7B2FFF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/☁️%20EXPLORING-AWS-FF9900?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🤖%20FOCUS-AI%2FML-FF00C8?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/AVAILABLE-LEARNING-00FF88?style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/BUILDING-AI%20%2B%20WEB-7B2FFF?style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/EXPLORING-AWS-FF9900?style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-FF00C8?style=for-the-badge&labelColor=0D1117"/>
 
 </p>
 
-<br>
+---
 
-<!-- ===================== ABOUT ME =========================== -->
-<div align="center">
+<!-- ===================== ABOUT ME ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A00,50:3D2B00,100:8A6500&height=90&text=ABOUT%20ME&fontSize=34&fontColor=FFD700&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+Aryan+Surve;Python+%2F+Django+Developer;AI+%2F+ML+Enthusiast;AWS+%2F+Cloud+%2F+DevOps+Explorer;Building+Intelligent+Digital+Solutions"/>
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="55%" valign="top">
-
-### 👨‍💻 Who Am I?
-
-🎓 **B.E. Computer Engineering Student**
-
-🏫 **Dr. D. Y. Patil College of Engineering & Innovation**
-
-🎯 **SPPU**
-
-<br>
-
-🐍 **Python / Django Developer**
-
-🤖 **AI & Machine Learning Enthusiast**
-
-☁️ **AWS & Cloud Explorer**
-
-⚙️ **Backend & REST API Developer**
-
-🧠 **Problem Solver & Continuous Learner**
-
-📍 **Pune, Maharashtra, India 🇮🇳**
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,aws,mysql,git,github&perline=4"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/DJANGO-C9A227?style=for-the-badge&logo=django&logoColor=black"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-8A6500?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/💡%20THINK-FFD700?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/💻%20CODE-C9A227?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/🧪%20TEST-B8860B?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/☁️%20DEPLOY-DAA520?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/🚀%20INNOVATE-FFD700?style=for-the-badge&labelColor=0D0D0D"/>
-
-</p>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=600&color=FFD700&center=true&vCenter=true&width=850&height=45&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Learn+%E2%86%92+Repeat"/>
-
-</div>................................
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1B1464,100:3B0A57&height=90&text=ABOUT%20ME&fontSize=34&fontColor=00F5FF&animation=fadeIn"/>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+Aryan+Surve;Python+%2F+Django+Developer;AI+%2F+ML+Enthusiast;AWS+%2F+Cloud+%2F+DevOps+Explorer;Building+Intelligent+Digital+Solutions"/>
+
 </div>
-
-<br>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+Aryan+Surve+%F0%9F%91%8B;Python+%2F+Django+Developer+%F0%9F%90%8D;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;AWS+%2F+Cloud+%2F+DevOps+Explorer+%E2%98%81%EF%B8%8F;Building+Intelligent+Digital+Solutions+%F0%9F%9A%80"/>
-
-</p>
 
 <br>
 
@@ -144,7 +69,7 @@
 
 <br>
 
-💻 **Python/Django Developer**
+🐍 **Python / Django Developer**
 
 🤖 **AI & Machine Learning Enthusiast**
 
@@ -154,7 +79,7 @@
 
 🧠 **Problem Solver & Continuous Learner**
 
-📍 **Pune, Maharashtra, India 🇮🇳**
+📍 **Pune, Maharashtra, India**
 
 </td>
 
@@ -179,15 +104,9 @@
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ===================== COLOR DIVIDER ====================== -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FFF,100:FF00C8&height=4&section=header"/>
-</p>
-
-<!-- ===================== WHAT I DO ========================== -->
+<!-- ===================== WHAT I DO ===================== -->
 
 <div align="center">
 
@@ -206,11 +125,11 @@
 
 ### 🐍
 
-## Python
+**Python**
 
-Backend
-Automation
-DSA
+Backend  
+Automation  
+Problem Solving
 
 </td>
 
@@ -218,10 +137,10 @@ DSA
 
 ### 🌐
 
-## Django
+**Django**
 
-Web Apps
-REST APIs
+Web Apps  
+REST APIs  
 Authentication
 
 </td>
@@ -230,10 +149,10 @@ Authentication
 
 ### 🤖
 
-## AI / ML
+**AI / ML**
 
-Machine Learning
-Deep Learning
+Machine Learning  
+Deep Learning  
 Computer Vision
 
 </td>
@@ -242,10 +161,10 @@ Computer Vision
 
 ### ☁️
 
-## AWS
+**AWS**
 
-Cloud
-Deployment
+Cloud  
+Deployment  
 Infrastructure
 
 </td>
@@ -253,9 +172,9 @@ Infrastructure
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ===================== TECH STACK ========================= -->
+<!-- ===================== TECH STACK ===================== -->
 
 <div align="center">
 
@@ -267,9 +186,9 @@ Infrastructure
 
 </div>
 
-<br>
+---
 
-<!-- ===================== DEVELOPER MINDSET ================== -->
+<!-- ===================== DEVELOPER MINDSET ===================== -->
 
 <div align="center">
 
@@ -277,22 +196,22 @@ Infrastructure
 
 <br>
 
-<img src="https://img.shields.io/badge/💡%20THINK-00F5FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🎨%20DESIGN-7B2FFF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/💻%20CODE-FF00C8?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🧪%20TEST-00FF88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/☁️%20DEPLOY-FF9900?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🚀%20IMPROVE-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/THINK-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DESIGN-7B2FFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CODE-FF00C8?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TEST-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DEPLOY-FF9900?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/IMPROVE-00F5FF?style=for-the-badge&labelColor=0D1117"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=850&height=45&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=850&height=45&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Learn+%E2%86%92+Repeat"/>
 
 </div>
 
-<br>
+---
 
-<!-- ===================== TERMINAL =========================== -->
+<!-- ===================== TERMINAL ===================== -->
 
 ## 💻 `$ ./about-aryan`
 
@@ -304,70 +223,19 @@ Infrastructure
 │  $ whoami                                            │
 │  > Python / Django Developer                          │
 │                                                      │
-│  $ interests                                          │
+│  $ interests                                         │
 │  > AI | ML | Backend | Cloud | DevOps                │
 │                                                      │
-│  $ tools                                              │
+│  $ tools                                             │
 │  > Python | Django | TensorFlow | AWS | Git          │
 │                                                      │
-│  $ location                                           │
-│  > Pune, Maharashtra, India 🇮🇳                       │
+│  $ location                                          │
+│  > Pune, Maharashtra, India                          │
 │                                                      │
-│  $ mission                                            │
-│  > Build intelligent digital solutions 🚀             │
+│  $ mission                                           │
+│  > Build intelligent digital solutions               │
 │                                                      │
-│  $ status                                             │
-│  > 🟢 ONLINE                                          │
+│  $ status                                            │
+│  > ONLINE                                             │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
-```
-
-<br>
-
-<!-- ===================== CURRENTLY LEARNING =============== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12005C,50:4B0082,100:FF00C8&height=80&text=CURRENTLY%20EXPLORING&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&width=800&height=45&lines=Advanced+Django+%F0%9F%8C%90;Machine+Learning+%F0%9F%A4%96;Deep+Learning+%F0%9F%A7%A0;AWS+Cloud+%E2%98%81%EF%B8%8F;DevOps+%E2%9A%99%EF%B8%8F;System+Design+%F0%9F%8F%97%EF%B8%8F;Open+Source+%F0%9F%8C%8D"/>
-
-</div>
-
-<br>
-
-<!-- ===================== GOALS ============================= -->
-
-<div align="center">
-
-## 🎯 2026 Mission
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center">🐍<br><b>Master Backend</b></td>
-<td align="center">🤖<br><b>Build AI Projects</b></td>
-<td align="center">☁️<br><b>Master AWS</b></td>
-<td align="center">⚙️<br><b>Learn DevOps</b></td>
-<td align="center">🌎<br><b>Open Source</b></td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== FINAL ANIMATION ==================== -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=FF00C8&center=true&vCenter=true&width=900&height=55&lines=I+don't+just+write+code.;I+build+solutions.;I+solve+problems.;I+learn+every+day.;I+keep+building.+%F0%9F%9A%80"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF00C8&height=100&section=footer"/>
-
-</div>
